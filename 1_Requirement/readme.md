@@ -1,14 +1,14 @@
-#Social Distancing ID_Card#
-##Features##
+# Social Distancing ID_Card #
+## Features ##
 Take care of social Distancing
 Buzzer will on when distance is less than 2m
-#4W'S and 1H
+# 4W'S and 1H
 **What- social distancing id card 
 **why- Take care of social distancing in working place
 **when-preventing from corona virues
 **Where - You can use this in your colleges,offices and any organization.
 **How - By using Atmega32 microcontroller and SimulIDE
-#SWOT ANALYSIS
+# SWOT ANALYSIS
 Strengths
 
 Take care from social distancing.
