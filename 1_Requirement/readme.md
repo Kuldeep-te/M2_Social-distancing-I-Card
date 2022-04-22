@@ -5,10 +5,10 @@ Buzzer will on when distance is less than 2m
 # 4W'S and 1H
 
 **What- social distancing id card<br/>
-**why- Take care of social distancing in working place**
-**when-preventing from corona virues**
-**Where - You can use this in your colleges,offices and any organization**
-**How - By using Atmega32 microcontroller and SimulIDE**
+**why- Take care of social distancing in working place**<br/>
+**when-preventing from corona virues**<br/>
+**Where - You can use this in your colleges,offices and any organization**<br/>
+**How - By using Atmega32 microcontroller and SimulIDE**<br/>
 
 # SWOT ANALYSIS
 # Strengths
