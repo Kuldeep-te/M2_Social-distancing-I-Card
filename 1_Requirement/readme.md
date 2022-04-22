@@ -4,7 +4,7 @@ Take care of social Distancing
 Buzzer will on when distance is less than 2m
 # 4W'S and 1H
 
-**What- social distancing id card<br/>
+**What- social distancing id card**<br/>
 **why- Take care of social distancing in working place**<br/>
 **when-preventing from corona virues**<br/>
 **Where - You can use this in your colleges,offices and any organization**<br/>
