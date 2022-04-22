@@ -13,14 +13,14 @@ Strengths
 
 Take care from social distancing.
 you can use in any organization
-Weakness
+# Weakness
 
 Only use in  straight direction .
 It's Very common.
-Opportunities
+# Opportunities
 
 Can add many more things
-Threats
+# Threats
 
 *Can get broken easily.
 
