@@ -1,0 +1,21 @@
+#inculde <avr/io.h>
+#inculde <util/delay.h>
+#inculde <stdlib.h>
+int main(void)
+{
+    DDRC5|=(1<<C5);
+    delay(100)
+     PortC5&=~(1<<PC5);
+}
+     {
+    while(1)
+    DDRC6|=(1<<C6)
+    distance = (duration/2) / 29.1;
+    if (distance <= 50 && distance >= 0) 
+    PORT|=(1<<AVCC)
+    PORTB1|=(1<<PB0);
+    else
+    PORT&=~(1<<AVCC)
+    PORTB1&=~(1<<PB0);
+    delay(60);
+     }
